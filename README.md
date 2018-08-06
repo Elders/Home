@@ -8,13 +8,13 @@ Projects in this organization have adopted the [Microsoft Open Source Code of Co
 
 | Name | Description |
 |------|-------------|
-| ![Olympus](https://img.shields.io/badge/Status-olympus-green.svg?longCache=true) | It is stable and it will continue to be supported, maintenance and future development |
-| ![Styx](https://img.shields.io/badge/Status-styx-orange.svg?longCache=true) | The future is not clear. There are two possible paths from here - olympus or tartarus |
-| ![Tartarus](https://img.shields.io/badge/Status-tartarus-red.svg?longCache=true) | Abandoned |
+| ![Olympus](https://img.shields.io/badge/Status-olympus-green.svg) | It is stable and it will continue to be supported, maintenance and future development |
+| ![Styx](https://img.shields.io/badge/Status-styx-orange.svg) | The future is not clear. There are two possible paths from here - olympus or tartarus |
+| ![Tartarus](https://img.shields.io/badge/Status-tartarus-red.svg) | Abandoned |
 
 ### Pandora
 
-[![Pandora NuGet](https://img.shields.io/nuget/v/Pandora.svg?longCache=true)](https://www.nuget.org/packages/Pandora) ![olympus](https://img.shields.io/badge/olympus-green.svg)
+[![Pandora NuGet](https://img.shields.io/nuget/v/Pandora.svg)](https://www.nuget.org/packages/Pandora) ![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 Pandora is a lightweight application configuration manager
 
