@@ -43,7 +43,7 @@ Cronus is a lightweight framework for dispatching and receiving messages between
 - [Cronus.Projections.Cassandra](https://github.com/Elders/Cronus.Projections.Cassandra) - projection store using Cassandra
 - [Cronus.Hystrix](https://github.com/Elders/Cronus.Hystrix) - circuit breaker middleware for Cronus
 - [Cronus.AtomicAction.Redis](https://github.com/Elders/Cronus.AtomicAction.Redis) - aggregate distributed lock with Redis
-- [Cronus.Serialization.Proteus](https://github.com/Elders/Cronus.Serialization.Proteus) ![styx](https://img.shields.io/badge/styx-orange.svg) - this has been the prefered serialization with Cronus v2. However, there is a huge warm up performance hit with big projects which needs to be resolved. Despite this, it works really fast. The implementation has small protocol changes
+- [Cronus.Serialization.Proteus](https://github.com/Elders/Cronus.Serialization.Proteus) ![styx](https://img.shields.io/badge/styx-orange.svg) - this has been the preferred serialization with Cronus v2. However, there is a huge warm up performance hit with big projects which needs to be resolved. Despite this, it works really fast. The implementation has small protocol changes
 - [Cronus.Projection.ElasticSearch](https://github.com/Elders/Cronus.Projection.ElasticSearch) ![styx](https://img.shields.io/badge/styx-orange.svg) - builds projections dynamically. Very useful for projects which just started and changes occur frequently. However, it must be switched to another persister such as Cassandra after the initial stages of the project
 
 ### Push notifications
