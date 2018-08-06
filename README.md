@@ -62,9 +62,9 @@ Generic application for sending push notification using Firebase and Pushy
 File storage abstraction over AmazonS3, Azure FS and the file system
 
 - [FileStorage](https://github.com/Elders/FileStorage)
-- [Azure](https://www.nuget.org/packages/FileStorage.Azure) [![Azure](https://img.shields.io/nuget/v/FileStorage.Azure.svg)](https://www.nuget.org/packages/FileStorage.Azure)
-- [AmazonS3](https://www.nuget.org/packages/FileStorage.AmazonS3) [![Azure](https://img.shields.io/nuget/v/FileStorage.AmazonS3.svg)](https://www.nuget.org/packages/FileStorage.AmazonS3)
-- [FileSystem](https://www.nuget.org/packages/FileStorage.FileSystem) [![Azure](https://img.shields.io/nuget/v/FileStorage.FileSystem.svg)](https://www.nuget.org/packages/FileStorage.FileSystem)
+- [Azure](https://www.nuget.org/packages/FileStorage.Azure) [![NuGet](https://img.shields.io/nuget/v/FileStorage.Azure.svg)](https://www.nuget.org/packages/FileStorage.Azure)
+- [AmazonS3](https://www.nuget.org/packages/FileStorage.AmazonS3) [![NuGet](https://img.shields.io/nuget/v/FileStorage.AmazonS3.svg)](https://www.nuget.org/packages/FileStorage.AmazonS3)
+- [FileSystem](https://www.nuget.org/packages/FileStorage.FileSystem) [![NuGet](https://img.shields.io/nuget/v/FileStorage.FileSystem.svg)](https://www.nuget.org/packages/FileStorage.FileSystem)
 
 ### Nyx
 
