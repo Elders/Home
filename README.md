@@ -8,13 +8,13 @@ Projects in this organization have adopted the [Microsoft Open Source Code of Co
 
 | Name | Description |
 |------|-------------|
-| ![Elders](https://img.shields.io/badge/Status-olympus-green.svg?longCache=true) | It is stable and it will continue to be supported, maintenance and future development |
-| ![Elders](https://img.shields.io/badge/Status-styx-orange.svg?longCache=true) | The future is not clear. There are two possible paths from here - olympus or tartarus |
-| ![Elders](https://img.shields.io/badge/Status-tartarus-red.svg?longCache=true) | Abandoned |
+| ![Olympus](https://img.shields.io/badge/Status-olympus-green.svg?longCache=true) | It is stable and it will continue to be supported, maintenance and future development |
+| ![Styx](https://img.shields.io/badge/Status-styx-orange.svg?longCache=true) | The future is not clear. There are two possible paths from here - olympus or tartarus |
+| ![Tartarus](https://img.shields.io/badge/Status-tartarus-red.svg?longCache=true) | Abandoned |
 
 ### Pandora
 
-[![NuGet](https://img.shields.io/nuget/v/Pandora.svg?longCache=true)](https://www.nuget.org/packages/Pandora) ![Elders](https://img.shields.io/badge/olympus-green.svg)
+[![Pandora NuGet](https://img.shields.io/nuget/v/Pandora.svg?longCache=true)](https://www.nuget.org/packages/Pandora) ![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 Pandora is a lightweight application configuration manager
 
@@ -24,7 +24,7 @@ Pandora is a lightweight application configuration manager
 
 ### Domain modeling
 
-[![NuGet](https://img.shields.io/nuget/v/Cronus.DomainModeling.svg)](https://www.nuget.org/packages/Cronus.DomainModeling) ![Elders](https://img.shields.io/badge/olympus-green.svg)
+[![Cronus.DomainModeling NuGet](https://img.shields.io/nuget/v/Cronus.DomainModeling.svg)](https://www.nuget.org/packages/Cronus.DomainModeling) ![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 Contracts for DDD/CQRS development
 
@@ -32,7 +32,7 @@ Contracts for DDD/CQRS development
 
 ### Cronus
 
-[![NuGet](https://img.shields.io/nuget/v/Cronus.svg)](https://www.nuget.org/packages/Cronus) ![Elders](https://img.shields.io/badge/olympus-green.svg)
+[![Cronus NuGet](https://img.shields.io/nuget/v/Cronus.svg)](https://www.nuget.org/packages/Cronus) ![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind
 
@@ -43,32 +43,32 @@ Cronus is a lightweight framework for dispatching and receiving messages between
 - [Cronus.Projections.Cassandra](https://github.com/Elders/Cronus.Projections.Cassandra) - projection store using Cassandra
 - [Cronus.Hystrix](https://github.com/Elders/Cronus.Hystrix) - circuit breaker middleware for Cronus
 - [Cronus.AtomicAction.Redis](https://github.com/Elders/Cronus.AtomicAction.Redis) - aggregate distributed lock with Redis
-- [Cronus.Serialization.Proteus](https://github.com/Elders/Cronus.Serialization.Proteus) ![Elders](https://img.shields.io/badge/styx-orange.svg) - this has been the prefered serialization with Cronus v2. However, there is a huge warm up performance hit with big projects which needs to be resolved. Despite this, it works really fast. The implementation has small protocol changes
-- [Cronus.Projection.ElasticSearch](https://github.com/Elders/Cronus.Projection.ElasticSearch) ![Elders](https://img.shields.io/badge/styx-orange.svg) - builds projections dynamically. Very useful for projects which just started and changes occur frequently. However, it must be switched to another persister such as Cassandra after the initial stages of the project
+- [Cronus.Serialization.Proteus](https://github.com/Elders/Cronus.Serialization.Proteus) ![styx](https://img.shields.io/badge/styx-orange.svg) - this has been the prefered serialization with Cronus v2. However, there is a huge warm up performance hit with big projects which needs to be resolved. Despite this, it works really fast. The implementation has small protocol changes
+- [Cronus.Projection.ElasticSearch](https://github.com/Elders/Cronus.Projection.ElasticSearch) ![styx](https://img.shields.io/badge/styx-orange.svg) - builds projections dynamically. Very useful for projects which just started and changes occur frequently. However, it must be switched to another persister such as Cassandra after the initial stages of the project
 
 ### Push notifications
 
-[![NuGet](https://img.shields.io/nuget/v/PushNotifications.Api.svg)](https://www.nuget.org/packages/PushNotifications.Api) ![Elders](https://img.shields.io/badge/olympus-green.svg)
+![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 Generic application for sending push notification using Firebase and Pushy
 
 - [Pushnotifications](https://github.com/Elders/Pushnotifications)
-- ![NuGet](https://img.shields.io/nuget/v/PushNotifications.Api.svg?label=PushNotifications.Api&link=https://www.nuget.org/packages/Pushnotifications.Api)
-- ![NuGet](https://img.shields.io/nuget/v/PushNotifications.WS.MSI.svg?label=PushNotifications.WS.MSI&link=https://www.nuget.org/packages/Pushnotifications.WS.MSI)
-- ![NuGet](https://img.shields.io/nuget/v/PushNotifications.Client.Net.svg?label=PushNotifications.Client.Net&link=https://www.nuget.org/packages/Pushnotifications.Client.Net)
+- [![PushNotifications.Api NuGet](https://img.shields.io/nuget/v/PushNotifications.Api.svg?label=PushNotifications.Api)](https://www.nuget.org/packages/PushNotifications.Api/)
+- [![PushNotifications.WS.MSI NuGet](https://img.shields.io/nuget/v/PushNotifications.WS.MSI.svg?label=PushNotifications.WS.MSI)](https://www.nuget.org/packages/PushNotifications.WS.MSI/)
+- [![PushNotifications.Client.Net NuGet](https://img.shields.io/nuget/v/PushNotifications.Client.Net.svg?label=PushNotifications.Client.Net)](https://www.nuget.org/packages/Pushnotifications.Client.Net/)
 
 ### File storage
 
 File storage abstraction over AmazonS3, Azure FS and the file system
 
 - [FileStorage](https://github.com/Elders/FileStorage)
-- [![NuGet](https://img.shields.io/nuget/v/FileStorage.Azure.svg?label=FileStorage.Azure)](https://www.nuget.org/packages/FileStorage.Azure) ![Elders](https://img.shields.io/badge/styx-orange.svg)
-- [![NuGet](https://img.shields.io/nuget/v/FileStorage.AmazonS3.svg?label=FileStorage.AmazonS3)](https://www.nuget.org/packages/FileStorage.AmazonS3) ![Elders](https://img.shields.io/badge/styx-orange.svg)
-- [![NuGet](https://img.shields.io/nuget/v/FileStorage.FileSystem.svg?label=FileStorage.FileSystem&)](https://www.nuget.org/packages/FileStorage.FileSystem) ![Elders](https://img.shields.io/badge/styx-orange.svg)
+- [![FileStorage.Azure NuGet](https://img.shields.io/nuget/v/FileStorage.Azure.svg?label=FileStorage.Azure)](https://www.nuget.org/packages/FileStorage.Azure) ![styx](https://img.shields.io/badge/styx-orange.svg)
+- [![FileStorage.AmazonS3 NuGet](https://img.shields.io/nuget/v/FileStorage.AmazonS3.svg?label=FileStorage.AmazonS3)](https://www.nuget.org/packages/FileStorage.AmazonS3) ![styx](https://img.shields.io/badge/styx-orange.svg)
+- [![FileStorage.FileSystem NuGet](https://img.shields.io/nuget/v/FileStorage.FileSystem.svg?label=FileStorage.FileSystem&)](https://www.nuget.org/packages/FileStorage.FileSystem) ![styx](https://img.shields.io/badge/styx-orange.svg)
 
 ### Nyx
 
-[![NuGet](https://img.shields.io/nuget/v/Nyx.svg)](https://www.nuget.org/packages/Nyx) ![Elders](https://img.shields.io/badge/olympus-green.svg)
+[![Nyx NuGet](https://img.shields.io/nuget/v/Nyx.svg)](https://www.nuget.org/packages/Nyx) ![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 Build script using FAKE which only purpose is to provide out of the box solution for most nasty tasks
 
@@ -76,7 +76,7 @@ Build script using FAKE which only purpose is to provide out of the box solution
 
 ### be-a-better-dev
 
-![Elders](https://img.shields.io/badge/styx-orange.svg)
+![styx](https://img.shields.io/badge/styx-orange.svg)
 
 Tip, tricks, tutorials and presentations for modeling, DDD, best practices
 
