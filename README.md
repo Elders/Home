@@ -76,7 +76,7 @@ Build script using FAKE which only purpose is to provide out of the box solution
 
 ### be-a-better-dev
 
-![styx](https://img.shields.io/badge/styx-orange.svg)
+![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 Tip, tricks, tutorials and presentations for modeling, DDD, best practices
 
