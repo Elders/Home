@@ -84,7 +84,7 @@ Tip, tricks, tutorials and presentations for modeling, DDD, best practices
 
 ## Feedback
 
-[![Slack](https://img.shields.io/badge/Elders-OSS-black.svg?logo=slack&colorA=black)](https://join.slack.com/t/eldersoss/shared_invite/enQtNDExMjY5MTQzMjk5LTEyZTQwZTVkZjI2NzQ1ZGU3YzUyYzBiOTFmZTZhMGY3ZWEwZWQxZDVkOTM3NzdkZGJjN2Q2ZmQ4ZDg3YTUyMDQ)
+[![Slack](https://img.shields.io/badge/Elders-OSS-black.svg?logo=slack&colorA=black)](https://join.slack.com/t/elders-oss/shared_invite/enQtNDEyMTMzNTUwMzg5LTdhN2RmMTRkNzJlN2RmZTI3MDQwMzNlMTNiMjRiNWVhNjhlMjgyYzNmODk2ZDNiNjIxZTM5MzFhODIzMDE0ZTg)
 
 If you have any questions, suggestions and feedback, please don't hesitate to contact us at contact@eldersoss.com
 
