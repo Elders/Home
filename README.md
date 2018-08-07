@@ -62,9 +62,9 @@ Generic application for sending push notification using Firebase and Pushy
 File storage abstraction over AmazonS3, Azure FS and the file system
 
 - [FileStorage](https://github.com/Elders/FileStorage)
-- [![FileStorage.Azure NuGet](https://img.shields.io/nuget/v/FileStorage.Azure.svg?label=FileStorage.Azure)](https://www.nuget.org/packages/FileStorage.Azure) ![styx](https://img.shields.io/badge/styx-orange.svg)
-- [![FileStorage.AmazonS3 NuGet](https://img.shields.io/nuget/v/FileStorage.AmazonS3.svg?label=FileStorage.AmazonS3)](https://www.nuget.org/packages/FileStorage.AmazonS3) ![styx](https://img.shields.io/badge/styx-orange.svg)
-- [![FileStorage.FileSystem NuGet](https://img.shields.io/nuget/v/FileStorage.FileSystem.svg?label=FileStorage.FileSystem)](https://www.nuget.org/packages/FileStorage.FileSystem) ![styx](https://img.shields.io/badge/styx-orange.svg)
+- [![FileStorage.Azure NuGet](https://img.shields.io/nuget/v/FileStorage.Azure.svg?label=FileStorage.Azure)](https://www.nuget.org/packages/FileStorage.Azure) ![olympus](https://img.shields.io/badge/olympus-green.svg)
+- [![FileStorage.AmazonS3 NuGet](https://img.shields.io/nuget/v/FileStorage.AmazonS3.svg?label=FileStorage.AmazonS3)](https://www.nuget.org/packages/FileStorage.AmazonS3) ![olympus](https://img.shields.io/badge/olympus-green.svg)
+- [![FileStorage.FileSystem NuGet](https://img.shields.io/nuget/v/FileStorage.FileSystem.svg?label=FileStorage.FileSystem)](https://www.nuget.org/packages/FileStorage.FileSystem) ![olympus](https://img.shields.io/badge/olympus-green.svg)
 
 ### Nyx
 
