@@ -82,6 +82,14 @@ Tip, tricks, tutorials and presentations for modeling, DDD, best practices
 
 - [be-a-better-dev](https://github.com/Elders/be-a-better-dev)
 
+### Localizations
+
+Localization abstractions and PhraseApp implementation for .NET applications
+
+- [Localizations](https://github.com/Elders/Localizations)
+- [![Localizations NuGet](https://img.shields.io/nuget/v/Localizations.svg?label=Localizations)](https://www.nuget.org/packages/Localizations) ![olympus](https://img.shields.io/badge/olympus-green.svg)
+- [![Localizations.PhraseApp NuGet](https://img.shields.io/nuget/v/Localizations.PhraseApp.svg?label=Localizations.PhraseApp)](https://www.nuget.org/packages/Localizations.PhraseApp) ![olympus](https://img.shields.io/badge/olympus-green.svg)
+
 ## Feedback
 
 [![Slack](https://img.shields.io/badge/Elders-OSS-black.svg?logo=slack&colorA=black)](https://join.slack.com/t/elders-oss/shared_invite/enQtNDEyMTMzNTUwMzg5LTdhN2RmMTRkNzJlN2RmZTI3MDQwMzNlMTNiMjRiNWVhNjhlMjgyYzNmODk2ZDNiNjIxZTM5MzFhODIzMDE0ZTg)
