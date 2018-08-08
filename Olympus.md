@@ -1,8 +1,6 @@
-# Olympus 
+# Olympus - ![Olympus](https://img.shields.io/badge/Status-olympus-green.svg) 
 
 ###  These projects are stable and it will continue to be supported, maintained and will have further development
-
-## List of projects that are ![Olympus](https://img.shields.io/badge/Status-olympus-green.svg) 
 
 ### Pandora 
 [![Pandora NuGet](https://img.shields.io/nuget/v/Pandora.svg)](https://www.nuget.org/packages/Pandora)
