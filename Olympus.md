@@ -19,15 +19,13 @@
 ### Cronus 
 [![Cronus NuGet](https://img.shields.io/nuget/v/Cronus.svg)](https://www.nuget.org/packages/Cronus)
 
-- [Cronus](https://github.com/Elders/Cronus) - Cronus is a lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind
+- [Cronus](https://github.com/Elders/Cronus) - lightweight framework for dispatching and receiving messages between microservices with DDD/CQRS in mind
 - [Cronus.Transport.RabbitMQ](https://github.com/Elders/Cronus.Transport.RabbitMQ) - message transport implementation with RabbitMQ
 - [Cronus.Persistence.Cassandra](https://github.com/Elders/Cronus.Persistence.Cassandra) - event store implementation with Cassandra
 - [Cronus.Serialization.NewtonsoftJson](https://github.com/Elders/Cronus.Serialization.NewtonsoftJson) - message serialization using NewtonsoftJson
 - [Cronus.Projections.Cassandra](https://github.com/Elders/Cronus.Projections.Cassandra) - projection store using Cassandra
 - [Cronus.Hystrix](https://github.com/Elders/Cronus.Hystrix) - circuit breaker middleware for Cronus
 - [Cronus.AtomicAction.Redis](https://github.com/Elders/Cronus.AtomicAction.Redis) - aggregate distributed lock with Redis
-- [Cronus.Serialization.Proteus](https://github.com/Elders/Cronus.Serialization.Proteus) ![styx](https://img.shields.io/badge/styx-orange.svg) - this has been the preferred serialization with Cronus v2. However, there is a huge warm up performance hit with big projects which needs to be resolved. Despite this, it works really fast. The implementation has small protocol changes
-- [Cronus.Projection.ElasticSearch](https://github.com/Elders/Cronus.Projection.ElasticSearch) ![styx](https://img.shields.io/badge/styx-orange.svg) - builds projections dynamically. Very useful for projects which just started and changes occur frequently. However, it must be switched to another persister such as Cassandra after the initial stages of the project
 
 ### Push notifications
  [![PushNotifications.Api NuGet](https://img.shields.io/nuget/v/PushNotifications.Api.svg?label=PushNotifications.Api)](https://www.nuget.org/packages/PushNotifications.Api/) [![PushNotifications.WS.MSI NuGet](https://img.shields.io/nuget/v/PushNotifications.WS.MSI.svg?label=PushNotifications.WS.MSI)](https://www.nuget.org/packages/PushNotifications.WS.MSI/) [![PushNotifications.Client.Net NuGet](https://img.shields.io/nuget/v/PushNotifications.Client.Net.svg?label=PushNotifications.Client.Net)](https://www.nuget.org/packages/Pushnotifications.Client.Net/) 
