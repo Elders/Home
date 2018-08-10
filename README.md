@@ -1,6 +1,6 @@
 # Home
 
-The Home repository is the starting point for people to learn about Elders' projects. This repository contains pointers to the various GitHub repositories developed and maintained by Elders. Check the legend below to get a grasp on the support status for different projects.
+The Home repository is the starting point for people to learn about Elders' projects. This repository contains pointers to the various GitHub repositories developed and maintained by Elders. Check the legend below to get a grasp on the support statuses for different projects.
 
 ## Legend
 
