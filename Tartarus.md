@@ -9,3 +9,7 @@
 
 ## These projects are abandoned, not maintained and will not have further development
 
+- [Cronus.Persistence.Git](https://github.com/Elders/Cronus.Persistence.Git-)
+- [Cronus.Persistence.MSSQL](https://github.com/Elders/Cronus.Persistence.MSSQL)
+- [ElasticSearch-docker](https://github.com/Elders/ElasticSearch-docker)
+- [Hermes](https://github.com/Elders/Hermes)
