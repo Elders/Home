@@ -50,7 +50,7 @@ BETA:
 
 Example:
 > Let's say that the current version of a product is 2.0.0 and has a dependency to package X with version 1.2.0. Upon finishing all work on release-2.1.0 branch, in order to submit a PR and it being accepted, in the case that X has a latest version of 2.0.0, nothing should be done. However, If X has released a minor between 1.2.0 and 2.0.0, such as 1.3.0, the package should be updated to the greatest minor version. After releasing 2.1.0, package X should be 1.3.0.
-
+>
 > Let's use the aforementioned example and say that we need to Release a major version such as 3.0.0. A requirement to move on to a new Major version is to have all dependencies updated to their latest Major Versions. If X(which was 1.3.0 after the new release branch) has a new major version of 2.0.0, the dependency should be updated before releasing the products major version. After releasing 3.0.0, package X should be 2.0.0.
 
 ## Contributor License Agreement
