@@ -1,8 +1,6 @@
 # Home
 
-The Home repository is the starting point for people to learn about Elders' projects. This repository contains pointers to the various GitHub repositories developed and maintained by Elders.
-
-Projects in this organization have adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact opencode@microsoft.com with any additional questions or comments.
+The Home repository is the starting point for people to learn about Elders' projects. This repository contains pointers to the various GitHub repositories developed and maintained by Elders. Check the legend below to get a grasp on the support status for different projects.
 
 ## Legend
 
