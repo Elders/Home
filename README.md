@@ -6,7 +6,7 @@ The Home repository is the starting point for people to learn about Elders' proj
 
 | Name | Description | Link |
 |------|-------------|------|
-| [![Olympus](https://img.shields.io/badge/Status-olympus-green.svg)](Olympus.md) | It is stable and it will continue to be supported, maintained and will have further development | [Browse](Olympus.md) |
+| [![Olympus](https://img.shields.io/badge/Status-olympus-green.svg)](Olympus.md) | It is stable and it will continue to be supported. Contributions are accepted | [Browse](Olympus.md) |
 | [![Styx](https://img.shields.io/badge/Status-styx-orange.svg)](Styx.md) | The future is not clear. There are two possible paths from here - olympus or tartarus | [Browse](Styx.md) |
 | [![Tartarus](https://img.shields.io/badge/Status-tartarus-red.svg)](Tartarus.md) | It is abandoned, not maintained and will not have further development | [Browse](Tartarus.md) |
 
