@@ -16,4 +16,4 @@ The Home repository is the starting point for people to learn about Elders' proj
 
 If you have any questions, suggestions and feedback, please don't hesitate to contact us at contact@eldersoss.com
 
-Check out the [contributing page](CONTRIBUTING.md) to see the best places to log issues and start discussions.
+Check out the [contributing page](CONTRIBUTING.md) to get familiar with the contribution guidelines.
