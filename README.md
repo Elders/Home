@@ -12,7 +12,7 @@ The Home repository is the starting point for people to learn about Elders' proj
 
 ## Feedback
 
-[![Slack](https://img.shields.io/badge/Elders-OSS-black.svg?logo=slack&colorA=black)](https://join.slack.com/t/elders-oss/shared_invite/enQtNDEyMTMzNTUwMzg5LTdhN2RmMTRkNzJlN2RmZTI3MDQwMzNlMTNiMjRiNWVhNjhlMjgyYzNmODk2ZDNiNjIxZTM5MzFhODIzMDE0ZTg)
+[![Slack](https://img.shields.io/badge/Elders-OSS-black.svg?logo=slack&colorA=black)](https://join.slack.com/t/elders-oss/shared_invite/zt-59bxoaph-H6gu_w03dgp5X6aed_o95Q)
 
 If you have any questions, suggestions and feedback, please don't hesitate to contact us at contact@eldersoss.com
 
